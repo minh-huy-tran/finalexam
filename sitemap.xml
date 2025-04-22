@@ -2,7 +2,17 @@
 <urlset>
     <url>
         <loc>
-            http://localhost:8000/hello-world/
+            http://localhost:8000/the-joys-of-muffins/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/christmas-gingerbread-man/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/cake-kit/
         </loc>
     </url>
     <url>
@@ -27,7 +37,7 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/category/uncategorized/
+            http://localhost:8000/category/posts/
         </loc>
     </url>
     <url>
